@@ -93,7 +93,6 @@ public class BandingMachine {
 		} while(n);
 		
 		scanner.close();
-
 	}
 
 }
