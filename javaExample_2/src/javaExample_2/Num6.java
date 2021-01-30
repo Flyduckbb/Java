@@ -36,7 +36,8 @@ public class Num6 {
 					break;
 				}
 			}
-
 		}
+		
+		
 	}
 }
