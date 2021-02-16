@@ -11,6 +11,7 @@ public class Main_1013 {
 		int num2 = sc.nextInt();
 		
 		System.out.printf("%d %d", num1, num2);
+		sc.close();
 	}
 
 }
