@@ -10,6 +10,7 @@ public class Main_1011 {
 		String ch = sc.next();
 		
 		System.out.print(ch);
+		sc.close();
 	}
 
 }

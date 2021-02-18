@@ -10,6 +10,7 @@ public class Main_1012 {
 		double num = sc.nextDouble();
 		
 		System.out.printf("%.6f", num);
+		sc.close();
 	}
 
 }

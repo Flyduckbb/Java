@@ -10,6 +10,7 @@ public class Main_1015 {
 		float num1 = sc.nextFloat();
 		
 		System.out.printf("%.2f", num1);
+		sc.close();
 	}
 
 }

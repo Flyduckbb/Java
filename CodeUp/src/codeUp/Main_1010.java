@@ -11,7 +11,7 @@ public class Main_1010 {
 		a = sc.nextInt();
 		
 		System.out.print(a);
-
+		sc.close();
 	}
 
 }

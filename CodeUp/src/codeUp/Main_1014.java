@@ -11,6 +11,7 @@ public class Main_1014 {
 		String ch2 = sc.next();
 		
 		System.out.printf("%s %s", ch2, ch1);
+		sc.close();
 	}
 
 }
