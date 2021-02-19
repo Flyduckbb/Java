@@ -15,6 +15,7 @@ public class Main_1071 {
 				break;
 			System.out.println(num);
 		}
+		sc.close();
 	}
 
 }
