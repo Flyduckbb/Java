@@ -17,6 +17,7 @@ public class Main_1025 {
 			num_i = num_i * (10000/(int)power);
 			System.out.println("[" + num_i+ "]");
 		}
+		sc.close();
 		
 	}
 }
